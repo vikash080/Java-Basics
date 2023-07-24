@@ -22,6 +22,7 @@ public class Calculater {
 		//Checking and printing the value of "/" operation
 		else if(c=='/')
 		{
+			
 			System.out.println(x/y);
 		}
 		//Checking and printing the invalid input
